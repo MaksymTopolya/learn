@@ -37,24 +37,38 @@
 
 
 
-//* перебір об'єкта
-const book = {
-  author: "Bernard Cornwell",
-  genres: ["historical prose", "adventure"],
-  rating: 8.38,
-}; 
+// //* перебір об'єкта
+// const book = {
+//   author: "Bernard Cornwell",
+//   genres: ["historical prose", "adventure"],
+//   rating: 8.38,
+// };
 
 
-const try = 
+// const try =
 
 
-const value = Object.values(book)
+// const value = Object.values(book)
 
-console.log(value)
+// console.log(value)
 
 
-for (const key of value) {
-    console.log(key)
+// for (const key of value) {
+//     console.log(key)
     
         
-    }
+//     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
